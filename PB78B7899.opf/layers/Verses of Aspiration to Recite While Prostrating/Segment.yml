@@ -1,0 +1,104 @@
+id: 0d7ad12c956748d4ab298829f16c0cf8
+annotation_type: Segment
+revision: '00001'
+annotations:
+  6a65f6dab85648eab23e16c72b4a0fcb:
+    span:
+      start: 0
+      end: 38
+    metadata: {}
+  60553871b4854c3ab59a0c30037a325f:
+    span:
+      start: 40
+      end: 116
+    metadata: {}
+  363b85693dd74f9b8fbf8efe1592e7cd:
+    span:
+      start: 118
+      end: 188
+    metadata: {}
+  673f0588cda6424680d89cde65225c32:
+    span:
+      start: 190
+      end: 266
+    metadata: {}
+  4360f3419d504b2195717ba171b8f0ec:
+    span:
+      start: 268
+      end: 343
+    metadata: {}
+  78d1d78e4b5b41f4b69b463182ab4f9b:
+    span:
+      start: 345
+      end: 416
+    metadata: {}
+  86e2cb9e91e84ce594657befeb2a9741:
+    span:
+      start: 418
+      end: 490
+    metadata: {}
+  deeedb5593a94fb59576402e5bf61bee:
+    span:
+      start: 492
+      end: 566
+    metadata: {}
+  ea32ebdad356425e8ae1ab58d36f8584:
+    span:
+      start: 568
+      end: 635
+    metadata: {}
+  7949bf5ca83549d3917348d0b123a9be:
+    span:
+      start: 637
+      end: 707
+    metadata: {}
+  d5e9a13389014263adaf6f9c591312db:
+    span:
+      start: 709
+      end: 777
+    metadata: {}
+  d5fe47d1cd5f4124959109bb11a7f83e:
+    span:
+      start: 779
+      end: 859
+    metadata: {}
+  6ea37f8f79aa4ab9a7d500182451c6d0:
+    span:
+      start: 861
+      end: 938
+    metadata: {}
+  5d9047d99fd74caea1670845fd8d1914:
+    span:
+      start: 940
+      end: 1016
+    metadata: {}
+  8933660b88cc474fbf399e961a86d46f:
+    span:
+      start: 1018
+      end: 1080
+    metadata: {}
+  37c07d4dcd804be2be03ac734b71bb44:
+    span:
+      start: 1082
+      end: 1149
+    metadata: {}
+  b837816985f94998886903d43ed27503:
+    span:
+      start: 1151
+      end: 1232
+    metadata: {}
+  fdccec1cd46f4c07952a0f479bd7ed0a:
+    span:
+      start: 1234
+      end: 1310
+    metadata: {}
+  8522b24ad9fa48a0b8f145789bf9b85f:
+    span:
+      start: 1312
+      end: 1463
+    metadata: {}
+  7d999f8812e14f189fe56260114f55fe:
+    span:
+      start: 1465
+      end: 1477
+    metadata: {}
